@@ -1,0 +1,42 @@
+body {
+    background-image: url(../media/background.jpg);
+    background-size: cover;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+.sideslider {
+    background-color: #ecc743;
+    height: 43rem;
+    width: 39rem;
+    margin-right: -7rem;
+    float: right;
+    opacity: 0.9;
+    transform: skewX(-10deg);
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 21rem;
+    transform: skewX(10deg);
+}
+
+.h1 {
+    margin-right: 0.5rem;
+}
+
+.h2 {
+    font-size: 8rem;
+    font-weight: 300;
+}
+
+.middle {
+    margin-left: 18rem;
+    transform: skewX(10deg);
+}
+
+.p2 {
+    margin-left: -10rem;
+}
