@@ -28,15 +28,41 @@ body {
 }
 
 .h2 {
-    font-size: 8rem;
-    font-weight: 300;
+    font-size: 6rem;
+    font-weight: lighter;
 }
 
 .middle {
-    margin-left: 18rem;
+    margin-left: 27rem;
+    margin-top: 18rem;
     transform: skewX(10deg);
 }
 
-.p2 {
+.p1 {
+    margin-top: 0.7rem;
     margin-left: -10rem;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: -13.3rem;
+}
+
+.p2 {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: -14.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0.6rem;
+}
+
+.p3 {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: -4rem;
+}
+
+.bottom {
+    margin-left: 27rem;
+    transform: skewX(10deg);
+    display: flex;
+    place-items: center;
 }
