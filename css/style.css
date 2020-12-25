@@ -6,6 +6,13 @@ body {
     font-family: sans-serif;
 }
 
+.head2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4rem;
+}
+
 .sideslider {
     background-color: #ecc743;
     height: 43rem;
