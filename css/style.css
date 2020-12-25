@@ -1,6 +1,7 @@
 body {
     background-image: url(../media/background.jpg);
     background-size: cover;
+    background-position: center;
     overflow: hidden;
     font-family: sans-serif;
 }
