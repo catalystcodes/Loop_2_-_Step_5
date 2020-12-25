@@ -22,6 +22,11 @@ body {
     margin-top: 34rem;
 }
 
+.p5 {
+    color: white;
+    font-weight: bold;
+}
+
 .head1 {
     display: flex;
     flex-direction: column;
